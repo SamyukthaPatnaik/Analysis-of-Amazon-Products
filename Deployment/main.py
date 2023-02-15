@@ -6,6 +6,7 @@ import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
+
 #page config
 icon = Image.open("D:\DATA SCIENCE\Project\Analysis of product\Deployment\Analysis_icon.jpg")
 st.set_page_config(
